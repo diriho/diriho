@@ -4,7 +4,6 @@ I’m currently studying **Computer Science** and **Cognitive Science** at **Bro
 I’m passionate about **software engineering**, **artificial intelligence**, and **robotics** 🤖.
 
 #### 💬 Let’s connect!
-Feel free to reach out if you’d like to collaborate, share ideas, or just say hi.
 ---
 
 <!--
