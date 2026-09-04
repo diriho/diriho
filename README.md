@@ -31,7 +31,7 @@ I'm a developer and researcher interested in building technology at the intersec
 ## 💬 Let's Connect
 
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/don-destin-iriho">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
